@@ -11,7 +11,7 @@ spring bean configuration by annotations
   <li>constructor injection</li>
   <li>setter injection</li>
   <li>Method injection</li>
-  <li fieild injection/>
+  <li> fieild injection</li>
 </ol>
 
 <p>Qualifiers for Dependency Injection -</p>
